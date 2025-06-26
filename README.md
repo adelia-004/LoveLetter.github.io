@@ -1,2 +1,2 @@
-# LoveLetter.github.io
+# loveletter.github.io
 Animation of letter
